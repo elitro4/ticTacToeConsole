@@ -1,0 +1,3 @@
+﻿  ticTacToeConsole.cpp
+E:\ProjectC++\ticTacToeConsole\ticTacToeConsole\ticTacToeConsole.cpp(351,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ticTacToeConsole.vcxproj -> E:\ProjectC++\ticTacToeConsole\x64\Debug\ticTacToeConsole.exe
